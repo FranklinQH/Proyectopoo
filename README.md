@@ -43,7 +43,7 @@ Pedir al usuario cuantos números desea ordenar y pedir al usuario que números 
 ![image alt](https://github.com/FranklinQH/Proyectopoo/blob/41e156d638cc1e5799f9ab312bba855728ae7ea1/Captura%20de%20pantalla%202026-09-05%20194149.png)
 
 
-7. Mostrar arreglo
+8. Mostrar arreglo
 
 
 ![image alt](https://github.com/FranklinQH/Proyectopoo/blob/720731c5b8e24a59235f1b9032e9160da6cc8067/Captura%20de%20pantalla%202026-09-05%20194159.png)
