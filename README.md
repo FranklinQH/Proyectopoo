@@ -6,7 +6,7 @@ Pedir al usuario cuantos números desea ordenar y pedir al usuario que números 
 ![image alt]()
 
 2. Insertion Sort
-![image alt]()
+![image alt](https://github.com/FranklinQH/Proyectopoo/blob/cfb6e5d7504d0f45cf39f1c919896e345e8f24f3/Captura%20de%20pantalla%202026-09-05%20194041.png)
 
 3. Selection Sort
 ![image alt]()
