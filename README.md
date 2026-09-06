@@ -32,12 +32,12 @@ Pedir al usuario cuantos números desea ordenar y pedir al usuario que números 
 
 ![image alt](https://github.com/FranklinQH/Proyectopoo/blob/5cfabb70b95ffe4eba38750e6d56329138261361/Captura%20de%20pantalla%202026-09-05%20194121.png)
 
-6. Regresar
+6. Counting Sort
 
 
-![image alt]()
+![image alt](https://github.com/FranklinQH/Proyectopoo/blob/c9fb3f64d4ae6f2cd8df0b886c153a7276980f01/Captura%20de%20pantalla%202026-09-05%20194135.png)
 
-7. Salir
+7. Mostrar arreglo
 
 
 ![image alt]()
