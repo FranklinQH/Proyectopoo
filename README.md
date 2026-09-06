@@ -30,4 +30,14 @@ Pedir al usuario cuantos números desea ordenar y pedir al usuario que números 
 5. Quick Sort
 
 
+![image alt](https://github.com/FranklinQH/Proyectopoo/blob/5cfabb70b95ffe4eba38750e6d56329138261361/Captura%20de%20pantalla%202026-09-05%20194121.png)
+
+6. Regresar
+
+
+![image alt]()
+
+7. Salir
+
+
 ![image alt]()
