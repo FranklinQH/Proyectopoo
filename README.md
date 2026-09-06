@@ -20,7 +20,7 @@ Pedir al usuario cuantos números desea ordenar y pedir al usuario que números 
 5. Selection Sort
 
 
-![image alt]()
+![image alt](https://github.com/FranklinQH/Proyectopoo/blob/23fae1adc69e4de79425f8744b592d5440c50ed9/Captura%20de%20pantalla%202026-09-05%20194054.png)
 
 7. Merge Sort
 
