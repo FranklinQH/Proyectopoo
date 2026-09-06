@@ -40,4 +40,10 @@ Pedir al usuario cuantos números desea ordenar y pedir al usuario que números 
 7. Mostrar arreglo
 
 
+![image alt](https://github.com/FranklinQH/Proyectopoo/blob/41e156d638cc1e5799f9ab312bba855728ae7ea1/Captura%20de%20pantalla%202026-09-05%20194149.png)
+
+
+7. Mostrar arreglo
+
+
 ![image alt]()
